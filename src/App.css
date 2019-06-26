@@ -1,9 +1,8 @@
 .App {
   background-color: #2E2C2C;
 }
-
-.button-group{
-  left: 100px;
+button{
+  margin: 0 3px;
 }
 
 .mainTitle{
